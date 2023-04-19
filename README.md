@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Incomming PhD student at the University of Illinois Urbana-Champaign (UIUC), working on Mobile Sensing, Graph Mining, Data Mining, Pervasive Computing, and IoT Systems.
+I'm an Incomming PhD student at the University of Illinois Urbana-Champaign (UIUC), working on Mobile Sensing, Graph Mining, Data Mining, Pervasive Computing, and IoT Systems.
 
 - [HomePage](https://mtang.fyi)
 
