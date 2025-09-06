@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a second-year CS PhD student, working on Mobile Sensing, Graph Mining, Data Mining, Pervasive Computing, and IoT Systems.
+I'm a third-year CS PhD candidate, working on Mobile Sensing, Graph Mining, Data Mining, Pervasive Computing, and IoT Systems.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtang724&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
